@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-
+//Podstawy obiektowe do programu kostki rubika. Program wykorzystuje obroty tylko jednej ze ścianek.
 using namespace std;
 
 class Scianka{
