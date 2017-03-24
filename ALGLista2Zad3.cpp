@@ -2,7 +2,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
-
+//Modyfikacja z Zad1. Sortowanie przy wkładaniu elementu.
 using namespace  std;
 
 class Element {
