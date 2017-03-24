@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-
+//Modyfikacja Zad1. Sortowanie niemalejące losowych liczb.
 using namespace std;
 
 class Heap {
