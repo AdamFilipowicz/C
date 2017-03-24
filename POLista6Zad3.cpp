@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-
+//Program kostka rubika ukazujący 2wymiarowo kostkę którą można obracać komendami. Program zwraca komunikat gdy kostka jest ułożona.
 using namespace std;
 
 class Kostka{
