@@ -8,7 +8,7 @@
 #include <tuple>
 #include <algorithm>
 #include <queue>
-
+//Program liczący maksymalne skojarzenie grafu dwudzielnego o równolicznych zbiorach wierzchołków.
 using namespace std;
 
 int main(){
