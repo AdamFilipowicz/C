@@ -1,4 +1,2 @@
 # Programowanie
 Programming
-
-Sth
