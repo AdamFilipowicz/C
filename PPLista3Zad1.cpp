@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Podstawy definicji dynamicznej tablic. Tablicę wypełniamy kolejnymi literami alfabetu.
 void wyzeruj(char *tab,int n);
 void wypelnij(char *tab,int n);
 void wypisz(char *tab,int n);
