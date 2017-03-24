@@ -2,7 +2,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
-
+//Implementacja kolejki priorytetowej za pomocą listy dwukierunkowej. Zlicza średnią ilość porównań przy wypisywaniu rosnąco między elementami.
 using namespace  std;
 
 class Element {
