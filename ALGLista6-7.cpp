@@ -7,7 +7,7 @@
 #include <vector>
 #include <tuple>
 #include <algorithm>
-
+//Algorytm Kruskala wyznaczania minimalnego drzewa rozpinającego użyty na grafach losowych.
 using namespace std;
 
 class UnionFind{
