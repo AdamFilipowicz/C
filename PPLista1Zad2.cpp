@@ -1,6 +1,5 @@
 #include<stdio.h>
-
-void WypiszJutrzejszaDate(int dzien,int miesiac,int rok);
+//Funkcja sprawdza poprawność wprowadzonej daty
 
 int main(){
     int dzien,miesiac,rok;
@@ -90,11 +89,11 @@ void WypiszJutrzejszaDate(int dzien,int miesiac,int rok){
             }
         }
         else{
-            printf("Data nieprawid�owa");
+            printf("Data nieprawidłowa");
         }
     }
     else{
-        printf("Data nieprawid�owa");
+        printf("Data nieprawidłowa");
     }
 }
 
