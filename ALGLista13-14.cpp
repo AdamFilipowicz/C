@@ -6,7 +6,7 @@
 #include <tuple>
 #include <algorithm>
 #include <limits.h>
-
+//Program liczący 2-aproksymację optymalnego cyklu komiwojażera z wagami krawędzi jako odległości taksówkowej.
 using namespace std;
 
 class UnionFind{
