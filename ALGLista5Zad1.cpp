@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <limits.h>
-
+//Program bada spójność grafu nieskierowanego o rozmiarze n.
 using namespace std;
 
 class UnionFind{
