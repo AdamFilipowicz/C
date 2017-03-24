@@ -8,7 +8,7 @@
 #include <tuple>
 #include <algorithm>
 #include <queue>
-
+//Program liczacy maksymalny przepływ w k-wymiarowych hiperkostkach skierowanych.
 using namespace std;
 
 int main(){
