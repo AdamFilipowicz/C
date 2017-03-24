@@ -3,7 +3,7 @@
 #include <time.h>
 #include <iostream>
 #include <string>
-
+//Podstawy wyjątków. Program ścianka uzupełniony o wyjątki.
 using namespace std;
 
 class Scianka{
