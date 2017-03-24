@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//Program przechowuje w strukturach informacje o miejscach zerowych podanego trójmianu kwadratowego
 struct Trojmian{float a;float b;float c;};
 struct MZerowe{int IloscMiejscZerowych;float x0;float x1;float x2;};
 MZerowe MiejscaZerowe(Trojmian A);
