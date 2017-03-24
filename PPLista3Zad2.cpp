@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//Podstawy dynamicznej deklaracji dwuwymiarowej tablicy. Program według pewnego algorytmu rysuje "drzewo" kropek i iksów.
 void Wypisz(char**tab, int m, int n);
 int main ()
 {
