@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-
+//Nauka konstruktora kopiującego i operatora przypisania.
 using namespace std;
 
 class CA{
