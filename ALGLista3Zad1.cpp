@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-
+//Realizacja kolejki priorytetowej na kopcu. 
 using namespace std;
 
 class Heap {
