@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <algorithm>
-
+//Zadanie jak w Zad1 dla Kopca
 using namespace std;
 
 class Heap {
