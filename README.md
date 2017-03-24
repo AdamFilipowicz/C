@@ -1,2 +1,0 @@
-# Programowanie
-Programming
