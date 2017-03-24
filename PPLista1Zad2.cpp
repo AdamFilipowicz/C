@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Funkcja sprawdza poprawność wprowadzonej daty
+//Funkcja wypisuje datę następnego dnia jeśli wprowadzona data jest poprawna
 
 int main(){
     int dzien,miesiac,rok;
