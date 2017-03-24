@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-
+//Wykorzystanie tekstowego menu.
 using namespace std;
 
 class CA{
