@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Podstawy programowania obiektowego. Program przelicza "ziarno" na system dwójkowy w postaci kropek i iksów.
 class CA{
     private:
         char *tablica;
@@ -58,7 +58,7 @@ int CA::Wymiar(){
 }
 
 void CA::Wypisz(){
-    if (ziarno>255) printf("Ziarno za du�e");
+    if (ziarno>255) printf("Ziarno za du¿e");
     else{
         for(int i=0;i<wymiar;i++)
             printf("%c",tablica[i]);
