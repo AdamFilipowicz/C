@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//Funkcja która sprawdza poprawność wpisanej daty
 void CzyPoprawnaData(int dzien,int miesiac,int rok);
 
 int main(){
