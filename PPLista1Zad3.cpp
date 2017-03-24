@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Struktura daty. Funkcja która wypisuje datę następnego dnia
 struct Data{int dzien; int miesiac; int rok;};
 void Wypisz(Data B);
 void WypiszJutrzejszaDate(Data B);
