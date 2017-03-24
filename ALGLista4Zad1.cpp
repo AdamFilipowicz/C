@@ -3,7 +3,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <algorithm>
-
+//Użycie funkcji next_permutation oraz kolejki. 
+//Program dla wszystkich n-el permutacji liczy ilość porównań potrzebną na wstawienie permutacji do kolejki i ściągnięcie rosnąco.
 using namespace  std;
 
 class Element {
