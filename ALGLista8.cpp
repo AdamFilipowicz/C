@@ -7,7 +7,7 @@
 #include <vector>
 #include <tuple>
 #include <algorithm>
-
+//Program generujący k-wymiarowe hiperkostki z losowymi wagami i szukający najkrótszej ścieżki ze względu na sumę wag.
 using namespace std;
 
 int main(){
